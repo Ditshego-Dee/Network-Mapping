@@ -36,7 +36,8 @@ The default gateway is the router that connects my PC to the rest of the network
 
 ### 5.1 Ping to Router (Default Gateway)
 
-Command used:
+Command used: ping 172.20.6.1
+
 
 Result:  
 Packets sent = 4, received = 4, lost = 0 (0% loss)  
@@ -46,7 +47,8 @@ This shows that my PC can successfully communicate with the router.
 
 ### 5.2 Ping to Internet (Google DNS)
 
-Command used:
+Command used: ping 8.8.8.8
+
 
 Result:  
 Packets sent = 4, received = 4, lost = 0 (0% loss)  
@@ -56,7 +58,8 @@ This shows that my PC can successfully reach the internet.
 
 ### 5.3 Ping to Website (DNS Test)
 
-Command used:
+Command used: ping google.com
+
 
 Result:  
 Packets sent = 4, received = 4, lost = 0 (0% loss)  
