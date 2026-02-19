@@ -15,12 +15,7 @@ My PC connects to the router, and the router provides access to the internet.
 
 ## 3. Network Diagram
 
-        [ Internet ]
-             |
-       [ Work Router ]
-             |
-        [ My PC ]
-      IP: 172.20.7.253
+![Network Diagram](network-diagram.png)
 
 ## 4. IP Configuration
 
